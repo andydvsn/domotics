@@ -124,7 +124,7 @@ def jsonPost(evt) {
 		json += "\"device\":\"${evt.device}\","
 		json += "\"deviceId\":\"${evt.deviceId}\","
 		json += "\"${evt.name}\":\"${evt.value}\","
-		json += "\"location\":\"${evt.location}\","
+		json += "\"location\":\"${evt.location}\""
 		json += "}"
 	log.debug("hyperexport: ${json}")
 
