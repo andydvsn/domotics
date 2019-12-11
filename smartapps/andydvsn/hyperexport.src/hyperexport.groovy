@@ -16,7 +16,7 @@ preferences {
 
 	section ("Webhook") {
 		input "url", "text", title: "HTTP URL"
-		input "key", "text", title: "'x-api-key' header"
+		input "key", "text", title: "X-API-KEY"
 	}
 
 	section("Accelerometers:") {
