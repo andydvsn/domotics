@@ -1,5 +1,5 @@
 
-// hyperexport.groovy v1.00 (11th December 2019)
+// hyperexport.groovy v1.01 (11th December 2019)
 //  Barfs sensor data out via HTTP. Yes, just HTTP.
 
 definition(
